@@ -15,7 +15,7 @@ This project implements a **Speaker Identification System** using audio datasets
 
 ## 📂 Dataset
 - The dataset contains multiple audio files corresponding to different speakers.
-- [Dataset Link](#) *(Replace with your dataset link)*
+- DataSet provided with the code
 
 ---
 
@@ -31,13 +31,12 @@ pip install numpy scipy sklearn librosa
 ## 🚀 How to Run
 1. **Clone the Repository:**
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/BadalMandal/Speech-recognition-model
    ```
 
 2. **Run the Main Script:**
    ```bash
-   python main.py
+   python model.ipynb
    ```
 
 3. **Evaluate the System:**
